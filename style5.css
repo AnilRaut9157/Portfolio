@@ -1,0 +1,19 @@
+.demo1{
+    color: red;
+    display: inline;
+}
+.demo2{
+    color: green;
+    display: block;
+}
+.demo3{
+    color: rgb(230, 29, 62);
+    display: inline-block;
+}
+.demo4{
+    color: yellow;
+    display: none;
+}
+.demo5{
+    visibility: hidden;
+}

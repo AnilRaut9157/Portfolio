@@ -1,0 +1,36 @@
+#img1{
+    position: fixed;
+    top: 40px;
+    left: 150px;
+    width: 150px;
+}
+#img2{
+    position: relative;
+    top: 40px;
+    left: 90px;
+    width: 250px;
+}
+#img3{
+    position: absolute;
+    top: 80px;
+    left:150px;
+    width: 250px;
+}
+#img4{
+    position: sticky;
+    top: 60px;
+    right: 100px;
+    width: 800px;
+}
+.container{
+    position: relative;
+    margin-left: 20px;
+}
+.container1{
+    position: relative;
+    margin-left: 30px;
+}
+.container2{
+    position: absolute;
+    margin-left: 20px;
+}

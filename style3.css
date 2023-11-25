@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+#roman{
+    text-transform: capitalize;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text{
+    text-transform: capitalize;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+}
+#outer{
+    font-size:25px ;
+}
+#inner{
+    font-size: 10px;
+}

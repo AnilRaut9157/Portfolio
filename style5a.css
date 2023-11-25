@@ -1,0 +1,15 @@
+.container{
+    height: 400px;
+    width: 500px;
+    border: 2px  groove black;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
+.item{
+    height: 50px;
+    width: 80px;
+    background-color: aqua;
+    margin: 4px;
+}

@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #1d204a;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+footer {
+    background-color: #1d204a;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+#content {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 500px;
+    padding: 10px;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+#box1 {
+    background-color: rgba(255, 0, 0, 0.5); 
+}
+
+#box2 {
+    background-color: rgba(0, 255, 0, 0.5); 
+}
+
+#box3 {
+    background-color: rgba(0, 0, 255, 0.5); 
+}
+
+#fixeddiv{
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    height: 200px;
+    width: 150px;
+    background-image: url(cvphoto.jpg);
+    background-color: rgb(41, 112, 112);
+    background-size: cover;
+    background-position: center;
+}
